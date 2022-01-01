@@ -4,7 +4,7 @@
 
 You can customize it, the filename of the icon just has to match the app's one.
 
-![screenshot](assets/screenshot.png)
+![screenshot](screenshot.png)
 
 It will also install homebrew in the unlikely case you don't have already installed it, plus fileicon's binary.
 
